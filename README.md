@@ -1,4 +1,2 @@
 # test
-nothin
-hg
-hfg
+just a test
